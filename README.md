@@ -1,4 +1,4 @@
-# Curso de programación full stack
+# About the project
 
 ## MÓDULO 2 - Repositorio y WorkFlow
 
